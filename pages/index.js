@@ -1,4 +1,5 @@
 import { h } from 'preact'
+import "./style.css"
 
 const Index = () => {
     return(
