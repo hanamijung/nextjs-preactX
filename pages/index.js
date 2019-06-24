@@ -2,10 +2,10 @@ import { h } from 'preact'
 
 const Index = () => {
     return(
-        <div>
-            <h1>Hello World</h1>
-            <p>Running on Preact X with Next.js!</p>
-        </div>
+        <div className="content">
+          <h1>Anilive</h1>
+          <p><span>More info </span><a href="https://www.facebook.com/anilive.th/" target="_blank">here</a><span>.</span></p>
+      </div>
     )
 }
 
