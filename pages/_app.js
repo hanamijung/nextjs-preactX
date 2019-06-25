@@ -1,6 +1,5 @@
 import { h } from 'preact'
 import App, { Container } from 'next/app'
-import "./style.css"
 
 class MyApp extends App {
   static async getInitialProps({ Component, ctx }) {
